@@ -37,3 +37,10 @@ coverage.xml
 # Miscellaneous
 *.bak
 *.tmp
+
+env/
+__pycache__/
+db.sqlite3
+*.pyc
+.env
+staticfiles/
